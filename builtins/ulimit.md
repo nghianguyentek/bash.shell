@@ -57,7 +57,7 @@ The maximum resident set size (many systems do not honor this limit).
 
 ### `-n`
 
-The maximum number of open [file descriptors]() (most systems do not allow this value to be set).
+The maximum number of open [file descriptors](https://github.com/nghianguyentek/unix.os/blob/main/file-descriptor.md) (most systems do not allow this value to be set).
 
 ### `-p`
 
